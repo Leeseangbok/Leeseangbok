@@ -13,7 +13,6 @@
 ║          Software Developer   ·   Cambodia 🇰🇭                 ║
 ╚═══════════════════════════════════════════════════════════════╝
 </pre>
-</div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=00C896&center=true&vCenter=true&width=600&lines=Computer+Vision+%26+Deep+Learning+Engineer;Full-Stack+%26+Mobile+Developer;Cybersecurity+Enthusiast;IT+Engineering+Student+%40+RUPP)](https://git.io/typing-svg)
 
