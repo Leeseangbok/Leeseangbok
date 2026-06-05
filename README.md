@@ -1,9 +1,8 @@
 <h1 align="center">Hi, I'm Simthol Chanrodararithy 👨‍💻</h1>
-<h3 align="center">Software Developer | Computer Vision Engineer | Cybersecurity Enthusiast</h3>
+<h3 align="center">Software Developer | Computer Vision | Cybersecurity</h3>
 
-<!-- Dynamic Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=4th-Year+IT+Engineering+Student;Building+Real-Time+CV+Pipelines;Full-Stack+App+Developer;Mechanical+Keyboard+Enthusiast" alt="Typing SVG" />
+  <i>4th-Year IT Engineering Student building real-time computer vision pipelines, full-stack applications, and secure systems.</i>
 </p>
 
 ---
