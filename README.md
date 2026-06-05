@@ -1,20 +1,19 @@
 <!-- HEADER BANNER -->
 <div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║     ███████╗██╗███╗   ███╗████████╗██╗  ██╗ ██████╗ ██╗          ║
-║     ██╔════╝██║████╗ ████║╚══██╔══╝██║  ██║██╔═══██╗██║          ║
-║     ███████╗██║██╔████╔██║   ██║   ███████║██║   ██║██║          ║
-║     ╚════██║██║██║╚██╔╝██║   ██║   ██╔══██║██║   ██║██║          ║
-║     ███████║██║██║ ╚═╝ ██║   ██║   ██║  ██║╚██████╔╝███████╗     ║
-║     ╚══════╝╚═╝╚═╝     ╚═╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚══════╝     ║
-║                                                                  ║
-║            C H A N R O D A R A R I T H Y                         ║
-║         Software Developer  ·  Cambodia 🇰🇭                       ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+<pre>
+╔═══════════════════════════════════════════════════════════════╗
+║   ███████╗██╗███╗   ███╗████████╗██╗  ██╗ ██████╗ ██╗         ║
+║   ██╔════╝██║████╗ ████║╚══██╔══╝██║  ██║██╔═══██╗██║         ║
+║   ███████╗██║██╔████╔██║   ██║   ███████║██║   ██║██║         ║
+║   ╚════██║██║██║╚██╔╝██║   ██║   ██╔══██║██║   ██║██║         ║
+║   ███████║██║██║ ╚═╝ ██║   ██║   ██║  ██║╚██████╔╝███████╗    ║
+║   ╚══════╝╚═╝╚═╝     ╚═╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚══════╝    ║
+║                                                               ║
+║               C H A N R O D A R A R I T H Y                   ║
+║          Software Developer   ·   Cambodia 🇰🇭                 ║
+╚═══════════════════════════════════════════════════════════════╝
+</pre>
+</div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=00C896&center=true&vCenter=true&width=600&lines=Computer+Vision+%26+Deep+Learning+Engineer;Full-Stack+%26+Mobile+Developer;Cybersecurity+Enthusiast;IT+Engineering+Student+%40+RUPP)](https://git.io/typing-svg)
 
@@ -193,13 +192,11 @@ Building a strong foundation in cybersecurity through structured learning and ce
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![Simthol's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&bg_color=050A0E&title_color=00C896&icon_color=00C896&text_color=8AA0B0&border_color=0D2018&hide_border=false&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&bg_color=050A0E&title_color=00C896&text_color=8AA0B0&border_color=0D2018&hide_border=false)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&background=050A0E&ring=00C896&fire=0AF0FF&currStreakLabel=00C896&sideLabels=8AA0B0&border=0D2018)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=leeseangbok&show_icons=true&theme=radical&hide_border=true" alt="Simthol's GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leeseangbok&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leeseangbok&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -207,9 +204,7 @@ Building a strong foundation in cybersecurity through structured learning and ce
 ## 🏆 GitHub Trophies
 
 <div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=darkhub&no-frame=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
+  <img src="https://github-profile-trophy.vercel.app/?username=leeseangbok&theme=radical&no-frame=true&row=1&column=7" alt="trophy" />
 </div>
 
 ---
