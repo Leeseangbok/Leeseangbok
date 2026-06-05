@@ -22,29 +22,24 @@
 
 ---
 
-## `whoami`
+## 🔗 whoami
 
-```python
-class Simthol:
-    name        = "Simthol Chanrodararithy"
-    role        = "Software Developer"
-    university  = "Royal University of Phnom Penh (RUPP)"
-    degree      = "Bachelor of Information Technology Engineering"
-    gpa         = 3.63
-    location    = "Phnom Penh, Cambodia 🇰🇭"
-    email       = "chanrithy861@gmail.com"
-    languages   = ["Khmer (Native)", "English (Conversational · IELTS 6.0)"]
+**Simthol Chanrodararithy** | **Software Developer**
 
-    focus_areas = [
-        "Computer Vision & Deep Learning",
-        "Full-Stack Web Development",
-        "Mobile App Development",
-        "Cybersecurity & IT Compliance",
-    ]
+* 🎓 **Education:** Bachelor of Information Technology Engineering at the Royal University of Phnom Penh (RUPP) — GPA: 3.63
+* 📍 **Location:** Phnom Penh, Cambodia 🇰🇭
+* 📧 **Contact:** chanrithy861@gmail.com
+* 🗣️ **Languages:** Khmer (Native), English (Conversational - IELTS 6.0)
 
-    currently   = "Building real-time helmet detection system (Final Year Thesis)"
-    open_to     = ["Internships", "Entry-level roles", "Open source collaboration"]
-```
+**🎯 Focus Areas**
+* Computer Vision & Deep Learning
+* Full-Stack Web Development
+* Mobile App Development
+* Cybersecurity & IT Compliance
+
+**🚀 Current Status**
+* **Currently:** Building a real-time helmet detection system powered by YOLO11 for my Final Year Thesis.
+* **Open to:** Internships, Entry-level roles, and Open source collaboration
 
 ---
 
