@@ -4,15 +4,15 @@
 ```
 ╔══════════════════════════════════════════════════════════════════╗
 ║                                                                  ║
-║     ███████╗██╗███╗   ███╗████████╗██╗  ██╗ ██████╗ ██╗        ║
-║     ██╔════╝██║████╗ ████║╚══██╔══╝██║  ██║██╔═══██╗██║        ║
-║     ███████╗██║██╔████╔██║   ██║   ███████║██║   ██║██║        ║
-║     ╚════██║██║██║╚██╔╝██║   ██║   ██╔══██║██║   ██║██║        ║
-║     ███████║██║██║ ╚═╝ ██║   ██║   ██║  ██║╚██████╔╝███████╗   ║
-║     ╚══════╝╚═╝╚═╝     ╚═╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚══════╝   ║
+║     ███████╗██╗███╗   ███╗████████╗██╗  ██╗ ██████╗ ██╗          ║
+║     ██╔════╝██║████╗ ████║╚══██╔══╝██║  ██║██╔═══██╗██║          ║
+║     ███████╗██║██╔████╔██║   ██║   ███████║██║   ██║██║          ║
+║     ╚════██║██║██║╚██╔╝██║   ██║   ██╔══██║██║   ██║██║          ║
+║     ███████║██║██║ ╚═╝ ██║   ██║   ██║  ██║╚██████╔╝███████╗     ║
+║     ╚══════╝╚═╝╚═╝     ╚═╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚══════╝     ║
 ║                                                                  ║
-║            C H A N R O D A R A R I T H Y                        ║
-║         Software Developer  ·  Cambodia 🇰🇭                      ║
+║            C H A N R O D A R A R I T H Y                         ║
+║         Software Developer  ·  Cambodia 🇰🇭                       ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
@@ -154,20 +154,18 @@ Building a strong foundation in cybersecurity through structured learning and ce
 
 ## 💼 Work Experience
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  🏦  Amret Microfinance Institution                             │
-│      End-User Services Intern  ·  IT Support & Infrastructure   │
-│      2025 – 2026  (6 months)                                    │
+┌──────────────────────────────────────────────────────────────────┐
+│      Amret Microfinance Institution                              │
+│      End-User Services Intern  ·  IT Support & Infrastructure    │
+│      2025 – 2026  (6 months)                                     │
 │                                                                  │
-│  ▸ First-line technical support for hardware, software &        │
+│  ▸ First-line technical support for hardware, software &         │
 │    network connectivity issues                                   │
-│  ▸ Installation, configuration & maintenance of workstations,   │
+│  ▸ Installation, configuration & maintenance of workstations,    │
 │    printers, and office peripherals                              │
-│  ▸ System admin tasks: user account management &                │
+│  ▸ System admin tasks: user account management &                 │
 │    IT asset inventory tracking                                   │
-└─────────────────────────────────────────────────────────────────┘
-```
+└──────────────────────────────────────────────────────────────────┘
 
 ---
 
