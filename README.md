@@ -154,19 +154,12 @@ Building a strong foundation in cybersecurity through structured learning and ce
 
 ## 💼 Work Experience
 
-┌──────────────────────────────────────────────────────────────────┐
-│      Amret Microfinance Institution                              │
-│      End-User Services Intern  ·  IT Support & Infrastructure    │
-│      2025 – 2026  (6 months)                                     │
-│                                                                  │
-│  ▸ First-line technical support for hardware, software &         │
-│    network connectivity issues                                   │
-│  ▸ Installation, configuration & maintenance of workstations,    │
-│    printers, and office peripherals                              │
-│  ▸ System admin tasks: user account management &                 │
-│    IT asset inventory tracking                                   │
-└──────────────────────────────────────────────────────────────────┘
+**🏢 Amret Microfinance Institution**
+*End-User Services Intern · IT Support & Infrastructure* | 🗓️ *2025 – 2026 (6 months)*
 
+* **▸** Provided first-line technical support for hardware, software, and network connectivity issues.
+* **▸** Handled the installation, configuration, and maintenance of workstations, printers, and office peripherals.
+* **▸** Executed system administration tasks, including user account management and IT asset inventory tracking.
 ---
 
 ## 🎓 Education
