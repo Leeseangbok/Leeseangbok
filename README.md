@@ -27,4 +27,6 @@
     "YOLOv11 Architecture", 
     "IT Risk Control (RCSA)"
   ],
-  "daily_
+  "daily_driver": "Leoborg HI75C Pro on a Dual Monitor Setup",
+  "fueled_by": ["Coffee", "Creatine", "Whey Protein"]
+}
