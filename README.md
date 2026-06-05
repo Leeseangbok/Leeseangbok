@@ -1,8 +1,17 @@
-<h1 align="center">Hi, I'm Simthol Chanrodararithy 👨‍💻</h1>
-<h3 align="center">Software Developer | Computer Vision | Cybersecurity</h3>
+<h1 align="center">
+  Hi, I'm Simthol Chanrodararithy <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
+</h1>
 
+<!-- Fixed & Widened Typing Animation -->
 <p align="center">
-  <i>4th-Year IT Engineering Student building real-time computer vision pipelines, full-stack applications, and secure systems.</i>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2EBA67&center=true&vCenter=true&width=800&height=50&lines=Software+Developer+%7C+Computer+Vision+Engineer;4th-Year+IT+Engineering+Student+at+RUPP;Building+Real-Time+YOLOv11+Pipelines;Cybersecurity+%26+RCSA+Enthusiast" alt="Typing SVG" />
+</p>
+
+<!-- Animated GitHub Trophies -->
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  </a>
 </p>
 
 ---
@@ -18,6 +27,4 @@
     "YOLOv11 Architecture", 
     "IT Risk Control (RCSA)"
   ],
-  "daily_driver": "Leoborg HI75C Pro on a Dual Monitor Setup",
-  "fueled_by": ["Coffee", "Creatine", "Whey Protein"]
-}
+  "daily_
