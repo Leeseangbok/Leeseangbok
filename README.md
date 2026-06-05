@@ -191,11 +191,11 @@ Building a strong foundation in cybersecurity through structured learning and ce
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leeseangbok&show_icons=true&theme=radical&hide_border=true" alt="Simthol's GitHub Stats" />
+  <img src="[https://github-readme-stats.vercel.app/api?username=leeseangbok&show_icons=true&theme=radical&hide_border=true](https://github-readme-stats.vercel.app/api?username=leeseangbok&show_icons=true&theme=radical&hide_border=true)" alt="Simthol's GitHub Stats" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leeseangbok&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=leeseangbok&layout=compact&theme=radical&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=leeseangbok&layout=compact&theme=radical&hide_border=true)" alt="Top Languages" />
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leeseangbok&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=leeseangbok&theme=radical&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=leeseangbok&theme=radical&hide_border=true)" alt="GitHub Streak" />
 </div>
 
 ---
@@ -203,7 +203,7 @@ Building a strong foundation in cybersecurity through structured learning and ce
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=leeseangbok&theme=radical&no-frame=true&row=1&column=7" alt="trophy" />
+  <img src="[https://github-profile-trophy.vercel.app/?username=leeseangbok&theme=radical&no-frame=true&row=1&column=7](https://github-profile-trophy.vercel.app/?username=leeseangbok&theme=radical&no-frame=true&row=1&column=7)" alt="trophy" />
 </div>
 
 ---
@@ -211,12 +211,15 @@ Building a strong foundation in cybersecurity through structured learning and ce
 ## 🤝 Connect with Me
 
 <div align="center">
+  <!-- Keep your existing Connect with Me badges here -->
+</div>
 
-[![Email](https://img.shields.io/badge/Email-chanrithy861%40gmail.com-050A0E?style=for-the-badge&logo=gmail&logoColor=00C896)](mailto:chanrithy861@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-%2B855_96_564_2656-050A0E?style=for-the-badge&logo=telegram&logoColor=00C896)](https://t.me/+85596564265)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-050A0E?style=for-the-badge&logo=linkedin&logoColor=00C896)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-050A0E?style=for-the-badge&logo=googlechrome&logoColor=00C896)](https://YOUR_PORTFOLIO_URL)
+<br>
 
+<div align="center">
+  <i>"Building systems that see, think, and protect."</i>
+  <br><br>
+  <img src="[https://komarev.com/ghpvc/?username=leeseangbok&label=Profile%20Views&color=blue&style=flat](https://komarev.com/ghpvc/?username=leeseangbok&label=Profile%20Views&color=blue&style=flat)" alt="Profile Views" />
 </div>
 
 ---
