@@ -200,12 +200,6 @@ Building a strong foundation in cybersecurity through structured learning and ce
 
 ---
 
-## 🏆 GitHub Trophies
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=leeseangbok&theme=radical&no-frame=true&row=1&column=7&v=2)](https://github.com/leeseangbok)
-
----
-
 ## 🤝 Connect with Me
 
 <div align="center">
