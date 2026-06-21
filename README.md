@@ -231,7 +231,7 @@ Building a strong foundation in cybersecurity through structured learning and ce
 
 [![Facebook](https://img.shields.io/badge/Facebook-050A0E?style=for-the-badge&logo=facebook&logoColor=00C896&v=2)](https://www.facebook.com/simthol.chanrodararithy)
 [![Email](https://img.shields.io/badge/Email-050A0E?style=for-the-badge&logo=gmail&logoColor=00C896&v=2)](mailto:chanrithy861@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-050A0E?style=for-the-badge&logo=linkedin&logoColor=00C896&v=2)](https://www.linkedin.com/in/simthol-chanrodararithy-70b827274/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-050A0E?style=for-the-badge&logo=linkedin&logoColor=%2300C896)](https://www.linkedin.com/in/simthol-chanrodararithy-70b827274/)
 [![Telegram](https://img.shields.io/badge/Telegram-050A0E?style=for-the-badge&logo=telegram&logoColor=00C896&v=2)](https://t.me/@thy_to_ot)
 
 </div>
