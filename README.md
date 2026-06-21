@@ -191,11 +191,11 @@ Building a strong foundation in cybersecurity through structured learning and ce
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=leeseangbok&show_icons=true&theme=radical&hide_border=true](https://github-readme-stats.vercel.app/api?username=leeseangbok&show_icons=true&theme=radical&hide_border=true)" alt="Simthol's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=leeseangbok&show_icons=true&theme=radical&hide_border=true" alt="Simthol's GitHub Stats" />
   <br><br>
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=leeseangbok&layout=compact&theme=radical&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=leeseangbok&layout=compact&theme=radical&hide_border=true)" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leeseangbok&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
   <br><br>
-  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=leeseangbok&theme=radical&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=leeseangbok&theme=radical&hide_border=true)" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leeseangbok&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -203,7 +203,7 @@ Building a strong foundation in cybersecurity through structured learning and ce
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="[https://github-profile-trophy.vercel.app/?username=leeseangbok&theme=radical&no-frame=true&row=1&column=7](https://github-profile-trophy.vercel.app/?username=leeseangbok&theme=radical&no-frame=true&row=1&column=7)" alt="trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=leeseangbok&theme=radical&no-frame=true&row=1&column=7" alt="trophy" />
 </div>
 
 ---
@@ -219,7 +219,7 @@ Building a strong foundation in cybersecurity through structured learning and ce
 <div align="center">
   <i>"Building systems that see, think, and protect."</i>
   <br><br>
-  <img src="[https://komarev.com/ghpvc/?username=leeseangbok&label=Profile%20Views&color=blue&style=flat](https://komarev.com/ghpvc/?username=leeseangbok&label=Profile%20Views&color=blue&style=flat)" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=leeseangbok&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 </div>
 
 ---
