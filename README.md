@@ -38,6 +38,7 @@
 **🚀 Current Status**
 * **Currently:** Building a real-time helmet detection system powered by YOLO11 for my Final Year Thesis.
 * **Open to:** Internships, Entry-level roles, and Open source collaboration
+* 🌐 **Portfolio:** [Visit my Personal Website](https://simthol-chanrodararithy-portfolio.vercel.app/)
 
 ---
 
@@ -204,6 +205,7 @@ Building a strong foundation in cybersecurity through structured learning and ce
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Personal_Portfolio-050A0E?style=for-the-badge&logo=googlechrome&logoColor=00C896)](https://simthol-chanrodararithy-portfolio.vercel.app/)
 [![Facebook](https://img.shields.io/badge/Facebook-050A0E?style=for-the-badge&logo=facebook&logoColor=00C896&v=2)](https://www.facebook.com/simthol.chanrodararithy)
 [![Email](https://img.shields.io/badge/Email-050A0E?style=for-the-badge&logo=gmail&logoColor=00C896&v=2)](mailto:chanrithy861@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-050A0E?style=for-the-badge&logo=linkedin&logoColor=%2300C896)](https://www.linkedin.com/in/simthol-chanrodararithy-70b827274/)
