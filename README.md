@@ -211,23 +211,6 @@ Building a strong foundation in cybersecurity through structured learning and ce
 ## 🤝 Connect with Me
 
 <div align="center">
-  <a href="https://www.facebook.com/simthol.chanrodararithy" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-050A0E?style=for-the-badge&logo=facebook&logoColor=00C896" alt="Facebook" />
-  </a>
-  <a href="mailto:chanrithy861@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-050A0E?style=for-the-badge&logo=gmail&logoColor=00C896" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/simthol-chanrodararithy-70b827274/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-050A0E?style=for-the-badge&logo=linkedin&logoColor=00C896" alt="LinkedIn" />
-  </a>
-  <a href="https://t.me/@thy_to_ot" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-050A0E?style=for-the-badge&logo=telegram&logoColor=00C896" alt="Telegram" />
-  </a>
-</div>
-
-## 🤝 Connect with Me
-
-<div align="center">
 
 [![Facebook](https://img.shields.io/badge/Facebook-050A0E?style=for-the-badge&logo=facebook&logoColor=00C896&v=2)](https://www.facebook.com/simthol.chanrodararithy)
 [![Email](https://img.shields.io/badge/Email-050A0E?style=for-the-badge&logo=gmail&logoColor=00C896&v=2)](mailto:chanrithy861@gmail.com)
