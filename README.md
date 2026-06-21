@@ -211,7 +211,18 @@ Building a strong foundation in cybersecurity through structured learning and ce
 ## 🤝 Connect with Me
 
 <div align="center">
-  <!-- Keep your existing Connect with Me badges here -->
+  <a href="https://www.facebook.com/simthol.chanrodararithy" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-050A0E?style=for-the-badge&logo=facebook&logoColor=00C896" alt="Facebook" />
+  </a>
+  <a href="mailto:chanrithy861@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-050A0E?style=for-the-badge&logo=gmail&logoColor=00C896" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/simthol-chanrodararithy-70b827274/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-050A0E?style=for-the-badge&logo=linkedin&logoColor=00C896" alt="LinkedIn" />
+  </a>
+  <a href="https://t.me/@thy_to_ot" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-050A0E?style=for-the-badge&logo=telegram&logoColor=00C896" alt="Telegram" />
+  </a>
 </div>
 
 <br>
@@ -223,13 +234,3 @@ Building a strong foundation in cybersecurity through structured learning and ce
 </div>
 
 ---
-
-<div align="center">
-
-```
-"Building systems that see, think, and protect."
-```
-
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=00C896&style=flat-square&label=Profile+Views)
-
-</div>
